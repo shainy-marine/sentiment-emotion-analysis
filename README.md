@@ -1,5 +1,5 @@
-# ffm_sentimizer_service #
-ffm_sentimizer_service can help us predict the emotions of the text written by users (passed as input to the service)
+#sentiment-emotion-analysis #
+/sentiment-emotion-analysis can help us predict the emotions of the text written by users (passed as input to the service)
 
 # Installation #
 <a href="https://www.python.org/downloads/">Python-3.7 </a><br/>
