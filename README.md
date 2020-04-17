@@ -1,4 +1,4 @@
-# sentiment-emotion-analysis #
+# Sentiment-Emotion-Analysis #
 sentiment-emotion-analysis can help us predict the emotions of the text written by users (passed as input to the service)
 
 # Installation #
